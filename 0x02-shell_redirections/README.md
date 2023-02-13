@@ -7,3 +7,4 @@ Shell Redirections
 5) Print first lines
 6) Print the third line
 7) Create a file
+8) Create a file with list details
