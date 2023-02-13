@@ -8,3 +8,5 @@ Shell Redirections
 6) Print the third line
 7) Create a file
 8) Create a file with list details
+9) Duplicate Lat line
+10) Delete js files
